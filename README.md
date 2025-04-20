@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 Umschüler zum Fachinformatiker Anwendungsentwicklung <br>
-  ⚙️ Fokus auf Backend mit Python, Node.js & JavaScript <br>
+  ⚙️ Fokus auf Backend mit Python, Node.js & JavaScript auch Three.js <br>
   🚀 Vom Lernenden zum Full-Stack-Entwickler – Schritt für Schritt
 </p>
 
