@@ -66,9 +66,8 @@ Ich lerne **praxisnah durch Projekte**, nutze **Anki mit Spaced-Repetition** und
 
 Wenn du dich austauschen willst, Feedback hast oder auf mein GitHub schauen möchtest:
 
-- GitHub: [github.com/DEINNAME](https://github.com/DEINNAME)
-- LinkedIn: *optional*
-- Mail: *optional*
+- GitHub: [https://github.com/Drotok](https://github.com/Drotok)
+
 
 ---
 
