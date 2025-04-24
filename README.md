@@ -28,7 +28,7 @@ Ich lerne **praxisnah durch Projekte**, nutze **Anki mit Spaced-Repetition** und
 - MongoDB mit Mongoose | Grundkenntnisse in PostgreSQL
 - Fehlerbehandlung & Projektstruktur
 
-### 🖥 Frontend (JS, HTML, CSS)
+### Frontend (JS, HTML, CSS)
 
 - Frontend-API-Kommunikation (Fetch, JSON)
 - Grundkenntnisse in **Tailwind CSS**
