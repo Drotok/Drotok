@@ -1,15 +1,15 @@
 
-<h1 align="center">👋 Hi, ich bin Alexander Hoffmann – angehender Anwendungsentwicklung</h1>
+<h1 align="center"> Hi, ich bin Alexander Hoffmann – angehender Anwendungsentwicklung</h1>
 
 <p align="center">
-  💻 Umschüler zum Fachinformatiker Anwendungsentwicklung <br>
-  ⚙️ Fokus auf Backend mit Python, Node.js & JavaScript auch Three.js <br>
-  🚀 Vom Lernenden zum Full-Stack-Entwickler – Schritt für Schritt
+   Umschüler zum Fachinformatiker Anwendungsentwicklung <br>
+   Fokus auf Backend mit Python, Node.js & JavaScript auch Three.js <br>
+   Vom Lernenden zum Full-Stack-Entwickler – Schritt für Schritt
 </p>
 
 ---
 
-## 🔎 Über mich
+##  Über mich
 
 Ich befinde mich in einer **Umschulung zum Fachinformatiker Anwendungsentwicklung** – mit echter Leidenschaft für Technik.  
 Von null gestartet, arbeite ich heute an **eigenen Full-Stack-Projekten**, plane APIs und schreibe verständlichen Code.
@@ -18,9 +18,9 @@ Ich lerne **praxisnah durch Projekte**, nutze **Anki mit Spaced-Repetition** und
 
 ---
 
-## 💼 Was ich kann
+##  Was ich kann
 
-### 🧠 Backend (Python / Node.js)
+###  Backend (Python / Node.js)
 
 - REST-APIs mit **Flask** und **Express.js**
 - **JWT-Authentifizierung** mit bcrypt
@@ -28,14 +28,14 @@ Ich lerne **praxisnah durch Projekte**, nutze **Anki mit Spaced-Repetition** und
 - MongoDB mit Mongoose | Grundkenntnisse in PostgreSQL
 - Fehlerbehandlung & Projektstruktur
 
-### 🖥️ Frontend (JS, HTML, CSS)
+### 🖥 Frontend (JS, HTML, CSS)
 
 - Frontend-API-Kommunikation (Fetch, JSON)
 - Grundkenntnisse in **Tailwind CSS**
 - Erste UI-Projekte mit Vanilla JS
 - Responsives Denken & Usability-Fokus
 
-### 🛠️ Tools & Methoden
+###  Tools & Methoden
 
 - **Git & GitHub** – Versionskontrolle, Branches, Pull Requests
 - **Postman** für API-Testing
@@ -43,26 +43,26 @@ Ich lerne **praxisnah durch Projekte**, nutze **Anki mit Spaced-Repetition** und
 - **TypeScript-Umstieg geplant**
 - Planung im Client/API/DB-Modell
 
-### 🧠 Soft Skills & Denkweise
+###  Soft Skills & Denkweise
 
-- 🔁 **Spaced Repetition** (Anki mit EP-/Level-System)
-- 🧩 Selbstreflexion & Lernstrategie-Optimierung
-- 📚 Wissen nachhaltig strukturieren
-- 🤝 Zusammenarbeit & Rollenverständnis im Team
-
----
-
-## 🚧 In Arbeit / Nächste Schritte
-
-- 🧱 Objektorientierung in Python (Vererbung, Modularisierung)
-- 🔍 Testen mit `pytest` & `unittest`
-- 🧼 Clean Code & Code-Architektur
-- 🖥️ Einstieg in React, Vue oder Angular (noch offen)
-- 📊 Fortschritts-Dashboard (XP-System aus Lernkarten)
+-  **Spaced Repetition** (Anki mit EP-/Level-System)
+-  Selbstreflexion & Lernstrategie-Optimierung
+-  Wissen nachhaltig strukturieren
+-  Zusammenarbeit & Rollenverständnis im Team
 
 ---
 
-## 📫 Kontakt
+##  In Arbeit / Nächste Schritte
+
+-  Objektorientierung in Python (Vererbung, Modularisierung)
+-  Testen mit `pytest` & `unittest`
+-  Clean Code & Code-Architektur
+-  Einstieg in React, Vue oder Angular (noch offen)
+-  Fortschritts-Dashboard (XP-System aus Lernkarten)
+
+---
+
+##  Kontakt
 
 Wenn du dich austauschen willst, Feedback hast oder auf mein GitHub schauen möchtest:
 
@@ -72,6 +72,6 @@ Wenn du dich austauschen willst, Feedback hast oder auf mein GitHub schauen möc
 ---
 
 <div align="center">
-  <strong>Danke fürs Reinschauen! 👋</strong><br/>
+  <strong>Danke fürs Reinschauen! </strong><br/>
   <em>„Versteht tief, baut stetig.“</em>
 </div>
